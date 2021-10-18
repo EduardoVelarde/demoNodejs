@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Mayonesa",
+    "price": "27 pesos mxn",
+    "origin": "Michoacan",
+    "weight": "1kg",
+    "id": 1
+  },
+  {
+    "name": "Ceviche",
+    "price": "14 pesos mxn",
+    "origin": "Durango",
+    "weight": "1kg",
+    "id": 2
+  },
+  {
+    "name": "Tostadas",
+    "price": "30 pesos mxn",
+    "origin": "Toluca",
+    "weight": "1kg",
+    "id": 3
+  },
+  {
+    "name": "Mayonesa",
+    "price": "27 pesos mxn",
+    "origin": "Michoacan",
+    "weight": "1kg",
+    "id": 4
+  },
+  {
+    "name": "Salmon",
+    "price": "45 pesos mxn",
+    "origin": "Veracruz",
+    "weight": "1kg",
+    "id": 5
+  },
+  {
+    "name": "Tocino",
+    "price": "50 pesos mxn",
+    "origin": "Monterrey",
+    "weight": "1kg",
+    "id": 6
+  },
+  {
+    "name": "Mantquilla",
+    "price": "20 pesos mxn",
+    "origin": "Michoacan",
+    "weight": "1kg",
+    "id": 7
+  }
+]
