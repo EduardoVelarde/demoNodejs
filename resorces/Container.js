@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 
 const writeFileAsync = async (arr) => {
     try{
@@ -13,7 +14,7 @@ const writeFileAsync = async (arr) => {
 
 const readFileAsync = async (arr) => {
     try{
-    let file = await fs.promises.readFile('/Users/eduardolopezvelarde/Documents/GitHub/demoNodejs/resorces/productos.txt', "utf-8");
+    let file = await fs.promises.readFile(path.join(__dirname, "/productos.txt"), "utf-8");
     return file;
 }catch(err){
         console.log(err)
